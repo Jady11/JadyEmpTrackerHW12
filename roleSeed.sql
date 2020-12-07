@@ -14,7 +14,7 @@ VALUE   ("General Manager", 100000, 1),
         ("Beverage Manager", 48000, 3),
         ("Assistant Manager", 55000, 3)
 
-INSERT INTO employees (first_name, last_name, role_id, manager_id)
+INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES  ("Rob", "Edington", 1, null),
         ("Megan", "Brown", 2, 1),
         ("Chuck", "Reed", 2, null),

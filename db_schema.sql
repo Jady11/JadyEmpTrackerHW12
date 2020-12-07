@@ -1,4 +1,4 @@
--- database schema with three tables
+ -- database schema with three tables
 DROP DATABASE IF EXISTS companyDB;
 CREATE database companyDB;
 
